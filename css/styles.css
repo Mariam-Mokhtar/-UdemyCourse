@@ -152,10 +152,10 @@ h3 {
 
 @media only screen and (max-width: 1028px) {
 
-    #title {
+    #title .container-fluid {
+       
         text-align: center;
     }
-
     .title-image {
         transform: rotate(0deg);
         position: static;
